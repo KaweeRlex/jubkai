@@ -1,2 +1,1 @@
-# jubkai
-jubkaidotcom
+# LINE-BOT-PHP-Starter
